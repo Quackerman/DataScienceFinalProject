@@ -4,7 +4,7 @@ In the final project, I analyze the spells of Dungeons & Dragons, finding their 
 #### What types of components are required to cast spells? What types are most common?
 #### What percentage of spells are rituals?
 #### What is the average casting time for a spell?
-Data Science Final Project - 1 Page Summary.docx. The one-page summary
-Data Science Programming Final Project - D&D Spells.pptx. Powerpoint presentation
-Final Project Milestone 4 - Analysis.ipynb. Jupyter Notebook code file
-spells.csv - Spells database
+##### Data Science Final Project - 1 Page Summary.docx. The one-page summary
+##### Data Science Programming Final Project - D&D Spells.pptx. Powerpoint presentation
+##### Final Project Milestone 4 - Analysis.ipynb. Jupyter Notebook code file
+##### spells.csv - Spells database
